@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\scipa\Desktop\Programs\Code Languages\C\C_Lion\PasswordWizz_2000"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/cmake-build-debug

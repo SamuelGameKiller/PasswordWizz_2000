@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/Menus.c
+PasswordWizz.h
+C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/PasswordWizz.h
+
+C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/PasswordWizz.h
+conio.h
+-
+stdio.h
+-
+stdlib.h
+-
+locale.h
+-
+string.h
+-
+time.h
+-
+ctype.h
+-
+unistd.h
+-
+windows.h
+-
+locale.h
+-
+

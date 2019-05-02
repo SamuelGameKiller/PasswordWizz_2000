@@ -1,0 +1,3 @@
+C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/cmake-build-debug/CMakeFiles/PasswordWizz_2000.dir
+C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/scipa/Desktop/Programs/Code Languages/C/C_Lion/PasswordWizz_2000/cmake-build-debug/CMakeFiles/rebuild_cache.dir
